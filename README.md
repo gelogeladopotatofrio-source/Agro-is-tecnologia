@@ -1,7 +1,5 @@
 <div align="center">
 
-# 🌿 Agrinho & Sustentabilidade
-### *Edição Especial*
 
 > *"O agro brasileiro alimenta o mundo enquanto preserva mais de 60% de sua vegetação nativa."*
 > — CNA Brasil
@@ -48,13 +46,6 @@ Clicker interativo desenhado inteiramente em **SVG puro**, com 4 fases progressi
 | 🌳 Árvore | Crescer | 100 |
 
 Cada fase inclui partículas animadas, barra de progresso, mensagem de conclusão e linha do tempo visual.
-
-### 🥚 Easter Egg — Plantinha Secreta
-No card de citação verde há uma plantinha SVG clicável. Ao clicar:
-- Um **regador azul animado** entra em cena e rega a planta
-- **Gotas caem** com animação
-- Um **balão de fala** exibe a contagem — de *"você já regou a planta 1 vez 💧"* até *"100 vezes! Você é um jardineiro incrível! 🏆"*
-- Mensagens especiais nos marcos 10, 25, 50, 75, 90, 99 e 100
 
 ### 📱 Responsividade Total
 
@@ -140,7 +131,6 @@ Creme Papel   #f9f7f2   ████  Fundo claro da página
 
 <div align="center">
 
-Desenvolvido com 🌿 para o **Projeto Agrinho**
 
 *Conciliando tradição do campo com tecnologia e preservação.*
 
