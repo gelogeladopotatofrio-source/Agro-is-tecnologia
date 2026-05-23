@@ -1,9 +1,27 @@
+<div align="center">
+
+# 🌿 Agrinho & Sustentabilidade
+### *Edição Especial*
+
+> *"O agro brasileiro alimenta o mundo enquanto preserva mais de 60% de sua vegetação nativa."*
+> — CNA Brasil
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/SVG)
+
+</div>
+
+---
 
 ## 📖 Sobre o Projeto
 
 Site editorial desenvolvido para o **Projeto Agrinho**, abordando a sustentabilidade no agronegócio brasileiro através de três pilares fundamentais: ambiental, social e econômico.
 
 O projeto foi construído com design inspirado em **revistas de alto padrão** — tipografia elegante, paleta de verdes nobres e dourado fosco — aliado a recursos interativos modernos de acessibilidade e gamificação.
+
+---
 
 ## ✨ Funcionalidades
 
@@ -31,6 +49,13 @@ Clicker interativo desenhado inteiramente em **SVG puro**, com 4 fases progressi
 
 Cada fase inclui partículas animadas, barra de progresso, mensagem de conclusão e linha do tempo visual.
 
+### 🥚 Easter Egg — Plantinha Secreta
+No card de citação verde há uma plantinha SVG clicável. Ao clicar:
+- Um **regador azul animado** entra em cena e rega a planta
+- **Gotas caem** com animação
+- Um **balão de fala** exibe a contagem — de *"você já regou a planta 1 vez 💧"* até *"100 vezes! Você é um jardineiro incrível! 🏆"*
+- Mensagens especiais nos marcos 10, 25, 50, 75, 90, 99 e 100
+
 ### 📱 Responsividade Total
 
 | Dispositivo | Breakpoint | Adaptações |
@@ -40,8 +65,11 @@ Cada fase inclui partículas animadas, barra de progresso, mensagem de conclusã
 | 🖥 Desktop | 901px – 1400px | Layout padrão duas colunas, card sticky |
 | 📺 TV / 4K | 1401px+ | Fonte 7rem no título, artigo até 1400px, tudo espaçoso |
 
+---
+
 ## 🗂 Estrutura de Arquivos
 
+```
 agrinho-sustentabilidade/
 │
 ├── index.html                          # Estrutura principal
@@ -51,6 +79,9 @@ agrinho-sustentabilidade/
 ├── premium_photo-1661963447711-...avif  # Imagem: plantação
 ├── photo-1563201515-adbe35c669c5.avif   # Imagem: economia
 └── premium_photo-1664527305901-...avif  # Imagem: trator no campo
+```
+
+---
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -62,22 +93,55 @@ agrinho-sustentabilidade/
 | **SVG** | Todos os desenhos do jogo e easter egg (planta, regador, árvore, cena) |
 | **Google Fonts** | Playfair Display, Lato, Material Symbols Outlined |
 
+---
+
+## 🚀 Como Usar
+
+**1. Clone ou baixe os arquivos**
+```bash
+git clone https://github.com/seu-usuario/agrinho-sustentabilidade.git
+```
+
+**2. Abra no navegador**
+```bash
+# Sem servidor necessário — basta abrir o arquivo:
+open index.html
+
+# Ou com Live Server no VS Code:
+# clique com botão direito em index.html → "Open with Live Server"
+```
+
+**3. Pronto!** Nenhuma dependência externa ou instalação necessária.
+
+> ⚠️ A **Leitura em Voz Alta** requer um navegador moderno com suporte à Web Speech API (Chrome, Edge, Firefox, Safari).
+
+---
 
 ## 📚 Fontes & Referências
 
-- [Imagens ]
-- [Embrapa Meio Ambiente]
-- [ Cepea/USP ]
+- [Sistema FAEP / Agrinho](https://www.sistemafaep.org.br/agrinho/)
+- [Embrapa Meio Ambiente](https://www.embrapa.br/meio-ambiente)
+- [CNA Brasil](https://cnabrasil.org.br/)
 - Dados: IBGE · Cepea/USP · Ministério da Agricultura · FGV
 
-
+---
 
 ## 🎨 Paleta de Cores
 
-Verde Nobre   #1a3c34    Fundo do hero e cards
-Verde Médio   #2F4F4F    Títulos e destaques
-Verde Botão   #556B2F    Footer e hover
-Ouro Velho    #c5a059    Acentos e destaques dourados
-Creme Papel   #f9f7f2    Fundo claro da página
+```
+Verde Nobre   #1a3c34   ████  Fundo do hero e cards
+Verde Médio   #2F4F4F   ████  Títulos e destaques
+Verde Botão   #556B2F   ████  Footer e hover
+Ouro Velho    #c5a059   ████  Acentos e destaques dourados
+Creme Papel   #f9f7f2   ████  Fundo claro da página
+```
+
+---
+
+<div align="center">
+
+Desenvolvido com 🌿 para o **Projeto Agrinho**
 
 *Conciliando tradição do campo com tecnologia e preservação.*
+
+</div>
