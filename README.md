@@ -110,10 +110,10 @@ open index.html
 
 ## 📚 Fontes & Referências
 
-- [Sistema FAEP / Agrinho](https://www.sistemafaep.org.br/agrinho/)
-- [Embrapa Meio Ambiente](https://www.embrapa.br/meio-ambiente)
-- [CNA Brasil](https://cnabrasil.org.br/)
-- Dados: IBGE · Cepea/USP · Ministério da Agricultura · FGV
+- [Imagens]
+- [Embrapa Meio Ambiente]
+- [Cepea/USP]
+- Dados: IBGE · CNA Brasil · Ministério da Agricultura · FGV
 
 ---
 
