@@ -86,28 +86,6 @@ agrinho-sustentabilidade/
 
 ---
 
-## 🚀 Como Usar
-
-**1. Clone ou baixe os arquivos**
-```bash
-git clone https://github.com/seu-usuario/agrinho-sustentabilidade.git
-```
-
-**2. Abra no navegador**
-```bash
-# Sem servidor necessário — basta abrir o arquivo:
-open index.html
-
-# Ou com Live Server no VS Code:
-# clique com botão direito em index.html → "Open with Live Server"
-```
-
-**3. Pronto!** Nenhuma dependência externa ou instalação necessária.
-
-> ⚠️ A **Leitura em Voz Alta** requer um navegador moderno com suporte à Web Speech API (Chrome, Edge, Firefox, Safari).
-
----
-
 ## 📚 Fontes & Referências
 
 - [Imagens]
