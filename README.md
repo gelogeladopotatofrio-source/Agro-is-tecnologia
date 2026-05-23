@@ -74,14 +74,10 @@ agrinho-sustentabilidade/
 
 ## 🎨 Paleta de Cores
 
-Verde Nobre   #1a3c34   ████  Fundo do hero e cards
-Verde Médio   #2F4F4F   ████  Títulos e destaques
-Verde Botão   #556B2F   ████  Footer e hover
-Ouro Velho    #c5a059   ████  Acentos e destaques dourados
-Creme Papel   #f9f7f2   ████  Fundo claro da página
-
-Desenvolvido com 🌿 para o **Projeto Agrinho**
+Verde Nobre   #1a3c34    Fundo do hero e cards
+Verde Médio   #2F4F4F    Títulos e destaques
+Verde Botão   #556B2F    Footer e hover
+Ouro Velho    #c5a059    Acentos e destaques dourados
+Creme Papel   #f9f7f2    Fundo claro da página
 
 *Conciliando tradição do campo com tecnologia e preservação.*
-
-</div>
